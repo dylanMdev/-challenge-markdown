@@ -50,4 +50,4 @@ Je peux contribuer en aidant à mettre en place un planning, en donnant les dire
 
 #### On a perdu Malcolm en chemin.
 
-<< [Précédent]("/") || FRIQUET LUCA || [Suivant]("/") >>
+<< [Précédent]("/") || FMAURCOT Dylan|| [Suivant]("/") >>
