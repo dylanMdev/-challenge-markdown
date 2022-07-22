@@ -1,7 +1,7 @@
 # MAURCOT Dylan
 
 > Tout est mini dans notre vie
-![Profile picture](Images/friquet_luca.jpg)
+![Profile picture](Images/dylan_m.jpg)
 
 ## Un développeur fan de séries et film.
 
